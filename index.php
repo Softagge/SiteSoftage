@@ -62,11 +62,11 @@
         <!-- Full Body Container -->
         <div id="container" class="boxed-page">
             <!-- Start Header Section --> 
-            
+
             <!-- Start Header Section -->
             <?php include 'topo.php'; ?>
             <!-- End Header Section -->
-            
+
             <!-- Start Home Page Slider -->
             <section id="home">
                 <!-- Carousel -->
@@ -206,231 +206,231 @@
                     <!-- End Services Icons -->
                 </div><!-- .container -->
             </div>
-                <!-- End Services Section -->
-                
-                                    <div class="hr5" style="margin-top:30px; margin-bottom:30px;"></div>
+            <!-- End Services Section -->
 
-                    <!-- Start Portfolio Section -->
-                    <div class="container">
+            <div class="hr5" style="margin-top:-50px; margin-bottom:30px;"></div>
 
-                        <div class="big-title text-center">
-                            <h1>Nosso <strong>Trabalho</strong></h1>
-                            <p class="title-desc"></p>
-                        </div>
-                        <!-- End Big Heading -->
-                        <!-- Start Recent Projects Carousel -->
-                        <center>
-                            <div class="portfolio-page portfolio-2column" style="background-color: #000">
+            <!-- Start Portfolio Section -->
+            <div class="container">
 
-                                <ul id="portfolio-list" data-animated="fadeIn">
-                                    <li>
-                                        <img src="images/Portfolio-1/1.png" alt="" />
-                                        <div class="portfolio-item-content">
-                                            <span class="header">Town winter 2013</span>
-                                            <p class="body">web develpment, design</p>
-                                        </div>
-                                        <a href="#"><i class="more">+</i></a>
+                <div class="big-title text-center">
+                    <h1>Nosso <strong>Trabalho</strong></h1>
+                    <p class="title-desc"></p>
+                </div>
+                <!-- End Big Heading -->
+                <!-- Start Recent Projects Carousel -->
+                <center>
+                    <div class="portfolio-page portfolio-2column" style="background-color: #000">
 
-                                    </li>                   
-                                </ul>
+                        <ul id="portfolio-list" data-animated="fadeIn">
+                            <li>
+                                <img src="images/Portfolio-1/1.png" alt="" />
+                                <div class="portfolio-item-content">
+                                    <span class="header">Town winter 2013</span>
+                                    <p class="body">web develpment, design</p>
+                                </div>
+                                <a href="#"><i class="more">+</i></a>
+
+                            </li>                   
+                        </ul>
+                    </div>
+                </center>
+                <!-- End Recent Projects Carousel -->
+            </div><!-- .container -->
+
+            <div class="hr5" style="margin-bottom:50px;"></div>
+
+            <!-- Start missão, visão -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+
+                        <!-- Classic Heading -->
+                        <h4 class="classic-title"><span>Mais sobre nós</span></h4>
+
+                        <!-- Nav Tabs -->
+                        <ul class="nav nav-tabs">
+                            <li class="active"><a href="#tab1" data-toggle="tab"><i class="icon-award-1"></i>Missão</a></li>
+                            <li><a href="#tab2" data-toggle="tab"><i class="icon-beaker"></i>Visão</a></li>
+                            <li><a href="#tab3" data-toggle="tab"><i class="icon-droplet"></i>Valores</a></li>
+                        </ul>
+
+                        <!-- Tab Panels -->
+                        <div class="tab-content">
+                            <!-- Tab Content 1 -->
+                            <div class="tab-pane fade in active" id="tab1">
+                                <p style="text-align: justify">Desenvolver softwares com alto desempenho e adaptável a diferentes resoluções de tela, garantindo a excelência de nossos produtos e a satisfação dos clientes.
+                                </p>
+                                <p style="text-align: justify">
+                                    Criar produtos de software que melhor atenda as necessidades dos clientes, aplicando soluções com alta qualidade.
+                                </p>
                             </div>
-                        </center>
-                        <!-- End Recent Projects Carousel -->
-                    </div><!-- .container -->
-                
-                <div class="hr5" style="margin-bottom:50px;"></div>
-
-                <!-- Start missão, visão -->
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-4">
-
-                            <!-- Classic Heading -->
-                            <h4 class="classic-title"><span>Mais sobre nós</span></h4>
-
-                            <!-- Nav Tabs -->
-                            <ul class="nav nav-tabs">
-                                <li class="active"><a href="#tab1" data-toggle="tab"><i class="icon-award-1"></i>Missão</a></li>
-                                <li><a href="#tab2" data-toggle="tab"><i class="icon-beaker"></i>Visão</a></li>
-                                <li><a href="#tab3" data-toggle="tab"><i class="icon-droplet"></i>Valores</a></li>
-                            </ul>
-
-                            <!-- Tab Panels -->
-                            <div class="tab-content">
-                                <!-- Tab Content 1 -->
-                                <div class="tab-pane fade in active" id="tab1">
-                                    <p style="text-align: justify">Desenvolver softwares com alto desempenho e adaptável a diferentes resoluções de tela, garantindo a excelência de nossos produtos e a satisfação dos clientes.
-                                    </p>
-                                    <p style="text-align: justify">
-                                        Criar produtos de software que melhor atenda as necessidades dos clientes, aplicando soluções com alta qualidade.
-                                    </p>
-                                </div>
-                                <!-- Tab Content 2 -->
-                                <div class="tab-pane fade" id="tab2">
-                                    <p style="text-align: justify">Estar entre as melhores empresas de desenvolvimento de software e ser referência de excelência em nossos produtos/serviços.</p>
-                                </div>
-                                <!-- Tab Content 1 -->
-                                <div class="tab-pane fade" id="tab3">
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <ul class="icons-list">
-                                                <li><i class="fa fa-check-circle"></i> Comprometimento</li>
-                                                <li><i class="fa fa-check-circle"></i> Constante melhoria dos processos do produto/serviços</li>
-                                                <li><i class="fa fa-check-circle"></i> Transparência no relacionamento com clientes e colaboradores</li>
-                                                <li><i class="fa fa-check-circle"></i> Confiança e respeito para com os membros da organização</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <ul class="icons-list">
-                                                <li><i class="fa fa-check-circle"></i> Responsabilidade com a sustentabilidade</li>
-                                                <li><i class="fa fa-check-circle"></i> Manter uma conduta ética com excelência</li>
-                                                <li><i class="fa fa-check-circle"></i> Atender as dimensões da usabilidade</li>
-                                                <li><i class="fa fa-check-circle"></i> Foco na satisfação do cliente</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                            <!-- Tab Content 2 -->
+                            <div class="tab-pane fade" id="tab2">
+                                <p style="text-align: justify">Estar entre as melhores empresas de desenvolvimento de software e ser referência de excelência em nossos produtos/serviços.</p>
                             </div>
-
-                        </div>
-
-                        <div class="col-md-4">
-
-                            <!--  Classic Heading -->
-                            <h4 class="classic-title"><span>Por que nos escolher?</span></h4>
-
-                            <!--  Accordion -->        
-                            <div class="panel-group" id="accordion">
-
-                                <!-- Start Accordion 1 -->
-                                <div class="panel panel-default">
-                                    <!-- Toggle Heading -->
-                                    <div class="panel-heading">
-                                        <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse-one">
-                                                <i class="icon-down-open-1 control-icon"></i>
-                                                <i class="icon-laptop-1"></i> Profissionalismo
-                                            </a>
-                                        </h4>
+                            <!-- Tab Content 1 -->
+                            <div class="tab-pane fade" id="tab3">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <ul class="icons-list">
+                                            <li><i class="fa fa-check-circle"></i> Comprometimento</li>
+                                            <li><i class="fa fa-check-circle"></i> Constante melhoria dos processos do produto/serviços</li>
+                                            <li><i class="fa fa-check-circle"></i> Transparência no relacionamento com clientes e colaboradores</li>
+                                            <li><i class="fa fa-check-circle"></i> Confiança e respeito para com os membros da organização</li>
+                                        </ul>
                                     </div>
-                                    <!-- Toggle Content --> 
-                                    <div id="collapse-one" class="panel-collapse collapse in">
-                                        <div class="panel-body" style="text-align: justify">Somos uma equipe formada por profissionais qualificados desde do gerente aos engenheiros
-                                            de software, com total comprometimento e dedicação com suas atividades, buscando desenvolver sempre os produtos que melhor atenda
-                                            as necessidades de nossos clientes.
-                                        </div>
+                                    <div class="col-md-6">
+                                        <ul class="icons-list">
+                                            <li><i class="fa fa-check-circle"></i> Responsabilidade com a sustentabilidade</li>
+                                            <li><i class="fa fa-check-circle"></i> Manter uma conduta ética com excelência</li>
+                                            <li><i class="fa fa-check-circle"></i> Atender as dimensões da usabilidade</li>
+                                            <li><i class="fa fa-check-circle"></i> Foco na satisfação do cliente</li>
+                                        </ul>
                                     </div>
                                 </div>
-                                <!-- End Accordion 1 -->
-
-                                <!--  Start Accordion 2 -->
-                                <div class="panel panel-default">
-                                    <!--  Toggle Heading -->
-                                    <div class="panel-heading">
-                                        <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse-tow" class="collapsed">
-                                                <i class="icon-down-open-1 control-icon"></i>
-                                                <i class="icon-gift-1"></i> Motivação
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <!-- Toggle Content -->
-                                    <div id="collapse-tow" class="panel-collapse collapse">
-                                        <div class="panel-body" style="text-align: justify">Nossa maior motivação é ter clientes satisfeitos com nosso trabalho, 
-                                            é desenvolver sistemas confiáveis e de fácil usabilidade, dispertando nos usuários o prazer em utilizar os nossos produtos. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Accordion 2 -->
-
-                                <!-- Start Accordion 3 -->
-                                <div class="panel panel-default">
-                                    <!-- Toggle Heading -->
-                                    <div class="panel-heading">
-                                        <h4 class="panel-title">
-                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse-three" class="collapsed">
-                                                <i class="icon-down-open-1 control-icon"></i>
-                                                <i class="icon-tint"></i> Mudanças
-                                            </a>
-                                        </h4>
-                                    </div>
-                                    <!-- Toggle Content -->
-                                    <div id="collapse-three" class="panel-collapse collapse">
-                                        <div class="panel-body" style="text-align: justify">Sistemas são propícios a mudança durante o processo de desenvolvimento, por tanto,
-                                            somos uma empresa que procuramos nos adaptar de maneira gerenciada e flexível a essas mudanças. Sempre
-                                            avaliando junto com o cliente os impactos que a mesma possa causar na qualidade do produto.
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Accordion 3 -->
                             </div>
                         </div>
 
-                        <div class="col-md-4">
-                            <!-- Classic Heading -->
-                            <h4 class="classic-title"><span>Marca</span></h4>
-                            <div class="thumbnail">
-                                <div class="embed-responsive embed-responsive-16by9" align="center">
-                                    <iframe src="images/softage/animacao-logo.swf" ></iframe>
-                                </div>
-                                <!-- Vimeo Iframe -->
+                    </div>
 
+                    <div class="col-md-4">
+
+                        <!--  Classic Heading -->
+                        <h4 class="classic-title"><span>Por que nos escolher?</span></h4>
+
+                        <!--  Accordion -->        
+                        <div class="panel-group" id="accordion">
+
+                            <!-- Start Accordion 1 -->
+                            <div class="panel panel-default">
+                                <!-- Toggle Heading -->
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">
+                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-one">
+                                            <i class="icon-down-open-1 control-icon"></i>
+                                            <i class="icon-laptop-1"></i> Profissionalismo
+                                        </a>
+                                    </h4>
+                                </div>
+                                <!-- Toggle Content --> 
+                                <div id="collapse-one" class="panel-collapse collapse in">
+                                    <div class="panel-body" style="text-align: justify">Somos uma equipe formada por profissionais qualificados desde do gerente aos engenheiros
+                                        de software, com total comprometimento e dedicação com suas atividades, buscando desenvolver sempre os produtos que melhor atenda
+                                        as necessidades de nossos clientes.
+                                    </div>
+                                </div>
                             </div>
+                            <!-- End Accordion 1 -->
+
+                            <!--  Start Accordion 2 -->
+                            <div class="panel panel-default">
+                                <!--  Toggle Heading -->
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">
+                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-tow" class="collapsed">
+                                            <i class="icon-down-open-1 control-icon"></i>
+                                            <i class="icon-gift-1"></i> Motivação
+                                        </a>
+                                    </h4>
+                                </div>
+                                <!-- Toggle Content -->
+                                <div id="collapse-tow" class="panel-collapse collapse">
+                                    <div class="panel-body" style="text-align: justify">Nossa maior motivação é ter clientes satisfeitos com nosso trabalho, 
+                                        é desenvolver sistemas confiáveis e de fácil usabilidade, dispertando nos usuários o prazer em utilizar os nossos produtos. 
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Accordion 2 -->
+
+                            <!-- Start Accordion 3 -->
+                            <div class="panel panel-default">
+                                <!-- Toggle Heading -->
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">
+                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-three" class="collapsed">
+                                            <i class="icon-down-open-1 control-icon"></i>
+                                            <i class="icon-tint"></i> Mudanças
+                                        </a>
+                                    </h4>
+                                </div>
+                                <!-- Toggle Content -->
+                                <div id="collapse-three" class="panel-collapse collapse">
+                                    <div class="panel-body" style="text-align: justify">Sistemas são propícios a mudança durante o processo de desenvolvimento, por tanto,
+                                        somos uma empresa que procuramos nos adaptar de maneira gerenciada e flexível a essas mudanças. Sempre
+                                        avaliando junto com o cliente os impactos que a mesma possa causar na qualidade do produto.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Accordion 3 -->
                         </div>
                     </div>
 
-                    <!-- Start Clients/Partner Section -->
-                    <div class="container">
-                        <div class="our-clients">
-
-                            <!-- Divider -->
-                            <div class="hr5" style="margin-top:40px; margin-bottom:30px;"></div>
-
-                            <!-- Start Big Heading -->
-                            <div class="big-title text-center">
-                                <h1>Nossos <strong>Clientes</strong></h1>
+                    <div class="col-md-4">
+                        <!-- Classic Heading -->
+                        <h4 class="classic-title"><span>Marca</span></h4>
+                        <div class="thumbnail">
+                            <div class="embed-responsive embed-responsive-16by9" align="center">
+                                <iframe src="images/softage/animacao-logo.swf" ></iframe>
                             </div>
-                            <!-- End Big Heading -->
+                            <!-- Vimeo Iframe -->
 
-                            <!--Start Clients Carousel-->
-                            <div class="our-clients">
-                                <div class="clients-carousel custom-carousel touch-carousel navigation-3" data-appeared-items="5" data-navigation="true">
+                        </div>
+                    </div>
+                </div>
 
-                                    <!-- Client 1 -->
-                                    <div class="client-item item">
-                                        <a href="#"><img src="images/softage/c4.png" alt="" /></a>
-                                    </div>
+                <!-- Start Clients/Partner Section -->
+                <div class="container">
+                    <div class="our-clients">
 
-                                    <!-- Client 2 -->
-                                    <div class="client-item item">
-                                        <a href="#"><img src="images/softage/c4.png" alt="" /></a>
-                                    </div>
+                        <!-- Divider -->
+                        <div class="hr5" style="margin-top:40px; margin-bottom:30px;"></div>
 
-                                    <!-- Client 3 -->
-                                    <div class="client-item item">
-                                        <a href="#"><img src="images/softage/logo/marca_prefeitura.png" alt="" /></a>
-                                    </div>
+                        <!-- Start Big Heading -->
+                        <div class="big-title text-center">
+                            <h1>Nossos <strong>Clientes</strong></h1>
+                        </div>
+                        <!-- End Big Heading -->
 
-                                    <!-- Client 4 -->
-                                    <div class="client-item item">
-                                        <a href="#"><img src="images/softage/c4.png" alt="" /></a>
-                                    </div>
+                        <!--Start Clients Carousel-->
+                        <div class="our-clients" style="margin-top: -35px;">
+                            <div class="clients-carousel custom-carousel touch-carousel navigation-3" data-appeared-items="5" data-navigation="true">
 
-                                    <!-- Client 5 -->
-                                    <div class="client-item item">
-                                        <a href="#"><img src="images/softage/c4.png" alt="" /></a>
-                                    </div>
+                                <!-- Client 1 -->
+                                <div class="client-item item">
+                                    <a href="#"><img src="images/softage/c4.png" alt="" /></a>
+                                </div>
+
+                                <!-- Client 2 -->
+                                <div class="client-item item">
+                                    <a href="#"><img src="images/softage/c4.png" alt="" /></a>
+                                </div>
+
+                                <!-- Client 3 -->
+                                <div class="client-item item">
+                                    <a href="#"><img src="images/softage/logo/marca_prefeitura.png" alt="" /></a>
+                                </div>
+
+                                <!-- Client 4 -->
+                                <div class="client-item item">
+                                    <a href="#"><img src="images/softage/c4.png" alt="" /></a>
+                                </div>
+
+                                <!-- Client 5 -->
+                                <div class="client-item item">
+                                    <a href="#"><img src="images/softage/c4.png" alt="" /></a>
                                 </div>
                             </div>
-                            <!-- End Clients Carousel -->
                         </div>
-                    </div><!-- .container -->
-                    <!-- End Clients/Partner Section -->
-                </div>
-                <!-- End Content -->
+                        <!-- End Clients Carousel -->
+                    </div>
+                </div><!-- .container -->
+                <!-- End Clients/Partner Section -->
+            </div>
+            <!-- End Content -->
 
-                <!-- Start Footer -->
-                <?php include 'rodape.php'; ?>
+            <!-- Start Footer -->
+            <?php include 'rodape.php'; ?>
             <!-- End Footer -->
 
         </div>
