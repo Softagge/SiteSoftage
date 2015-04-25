@@ -33,7 +33,7 @@
         <link rel="stylesheet" type="text/css" href="css/animate.css" media="screen">
 
         <!-- Color CSS Styles  -->
-        <link rel="stylesheet" type="text/css" href="css/colors/purple.css" title="purple" media="screen" />
+	<link rel="stylesheet" type="text/css" href="css/colors/purple.css" title="purple" media="screen" />
 
         <!-- JS  -->
         <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
@@ -220,16 +220,16 @@
                 <!-- End Big Heading -->
                 <!-- Start Recent Projects Carousel -->
                 <center>
-                    <div class="portfolio-page portfolio-2column" style="background-color: #000">
+                    <div class="portfolio-page portfolio-2column" style="background-color: #eeeeee">
 
                         <ul id="portfolio-list" data-animated="fadeIn">
                             <li>
-                                <img src="images/Portfolio-1/1.png" alt="" />
+                                <img src="images/softage/logo/logo_sistema.png" alt=""/>
                                 <div class="portfolio-item-content">
-                                    <span class="header">Town winter 2013</span>
-                                    <p class="body">web develpment, design</p>
+                                    <span class="header">e-Escola 2015</span>
+                                    <p class="body">Sistema de gestão escolar</p>
                                 </div>
-                                <a href="#"><i class="more">+</i></a>
+                                <a href="single-project.php"><i class="more">+</i></a>
 
                             </li>                   
                         </ul>
@@ -262,7 +262,7 @@
                                 <p style="text-align: justify">Desenvolver softwares com alto desempenho e adaptável a diferentes resoluções de tela, garantindo a excelência de nossos produtos e a satisfação dos clientes.
                                 </p>
                                 <p style="text-align: justify">
-                                    Criar produtos de software que melhor atenda as necessidades dos clientes, aplicando soluções com alta qualidade.
+                                    Criar produtos de software que melhor atendam as necessidades dos clientes, aplicando soluções com alta qualidade.
                                 </p>
                             </div>
                             <!-- Tab Content 2 -->
@@ -275,7 +275,7 @@
                                     <div class="col-md-6">
                                         <ul class="icons-list">
                                             <li><i class="fa fa-check-circle"></i> Comprometimento</li>
-                                            <li><i class="fa fa-check-circle"></i> Constante melhoria dos processos do produto/serviços</li>
+                                            <li><i class="fa fa-check-circle"></i> Constante melhoria dos processos do produtos/serviços</li>
                                             <li><i class="fa fa-check-circle"></i> Transparência no relacionamento com clientes e colaboradores</li>
                                             <li><i class="fa fa-check-circle"></i> Confiança e respeito para com os membros da organização</li>
                                         </ul>
@@ -356,8 +356,8 @@
                                 </div>
                                 <!-- Toggle Content -->
                                 <div id="collapse-three" class="panel-collapse collapse">
-                                    <div class="panel-body" style="text-align: justify">Sistemas são propícios a mudança durante o processo de desenvolvimento, por tanto,
-                                        somos uma empresa que procuramos nos adaptar de maneira gerenciada e flexível a essas mudanças. Sempre
+                                    <div class="panel-body" style="text-align: justify">Sistemas são propícios a mudanças durante o processo de desenvolvimento, por tanto,
+                                        somos uma empresa que busca adaptar-se de maneira gerenciada e flexível a essas mudanças. Sempre
                                         avaliando junto com o cliente os impactos que a mesma possa causar na qualidade do produto.
                                     </div>
                                 </div>

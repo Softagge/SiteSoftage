@@ -45,21 +45,21 @@
             <!-- End Flickr Widget -->
 
             <!-- Start Twitter Widget -->
-            <div class="col-md-3">
+            <div class="col-md-2 col-lg-offset-1">
                 <div class="footer-widget twitter-widget">
-                    <h4>Twitter Feed<span class="head-line"></span></h4>
+                    <h4>Links<span class="head-line"></span></h4>
                     <ul>
                         <li>
-                            <p><a href="#">@GrayGrids </a> LLLL ipsum dolor et, consectetur adipiscing eli.</p>
-                            <span>28 February 2014</span>
+                            <a href="services.php">Serviços </a>
                         </li>
                         <li>
-                            <p><a href="#">@GrayGrids </a> Lorem ipsum dolor et, consectetur adipiscing eli.An Fusce eleifend aliquet nis application.</p>
-                            <span>26 February 2014</span>
+                            <a href="portfolio.php">Portfólio </a>
                         </li>
                         <li>
-                            <p><a href="#">@GrayGrids </a> Lorem ipsum dolor et, consectetur adipiscing eli.</p>
-                            <span>28 February 2014</span>
+                            <a href="about.php">Sobre nós </a>
+                        </li>
+                        <li>
+                            <a href="contact.php">Contato </a>
                         </li>
                     </ul>
                 </div>
@@ -69,7 +69,7 @@
             <!-- Start Contact Widget -->
             <div class="col-md-3">
                 <div class="footer-widget contact-widget">
-                    <h4><img src="images/softage/logo/logo softage.png" width="114" height="23" class="img-responsive" alt="Footer Logo" /></h4>
+                    <h4><img src="images/softage/logo/logo_softage.png" width="114" height="23" class="img-responsive" alt="Footer Logo" /></h4>
                     <p>Empresa de desenvolvimento de sistema, criando software com as mais novas technologias do mercado, onde conseguimos
                         garantir desempenho, qualidade e confiança em nosso produtos.
                     </p>
@@ -89,11 +89,11 @@
         <div class="copyright-section">
             <div class="row">
                 <div class="col-md-6">
-                    <p>Copyright 2015 Margo -  All Rights Reserved</p>
+                    <p>Copyright 2015 Softage -  Todos os direitos reservados</p>
                 </div>
                 <div class="col-md-6">
                     <ul class="footer-nav">
-                        <li><a href="#">Contato</a></li>
+                        <li><a href="contact.php">Contato</a></li>
                     </ul>
                 </div>						
             </div>
