@@ -150,7 +150,7 @@
                         <!-- Start Service Icon 1 -->
                         <div class="col-md-3 col-sm-6 service-box service-center">
                             <div class="service-icon">
-                                <i class="fa fa-h-square icon-medium-effect icon-effect-2 gray-icon"></i>
+                                <i class="fa fa-check icon-medium-effect icon-effect-2 green-icon"></i>
                             </div>
                             <div class="service-content">
                                 <h4>Alta Qualidade</h4>
@@ -163,9 +163,9 @@
                         <!-- Start Service Icon 2 -->
                         <div class="col-md-3 col-sm-6 service-box service-center">
                             <div class="service-icon">
-                                <i class="fa fa-desktop icon-medium-effect icon-effect-2 gray-icon"></i>
+                                <i class="fa fa-desktop icon-medium-effect icon-effect-2 green-icon"></i>
                             </div>
-                            <div class="service-content">
+                            <div class="service-content">   
                                 <h4>Adaptação</h4>
                                 <p style="text-align: justify">Procuramos desenvolver nossos sistemas com total responsividade, podendo ser utilizado
                                     em mídias com resoluções de pequeno, médio e grande porte.
@@ -177,7 +177,7 @@
                         <!-- Start Service Icon 3 -->
                         <div class="col-md-3 col-sm-6 service-box service-center">
                             <div class="service-icon">
-                                <i class="fa fa-code icon-medium-effect icon-effect-2 gray-icon"></i>
+                                <i class="fa fa-code icon-medium-effect icon-effect-2 green-icon"></i>
                             </div>
                             <div class="service-content">
                                 <h4>Código Limpo e Moderno</h4>
@@ -191,7 +191,7 @@
                         <!-- Start Service Icon 4 -->
                         <div class="col-md-3 col-sm-6 service-box service-center">
                             <div class="service-icon">
-                                <i class="fa fa-bolt icon-medium-effect icon-effect-2 gray-icon"></i>
+                                <i class="fa fa-bolt icon-medium-effect icon-effect-2 green-icon"></i>
                             </div>
                             <div class="service-content">
                                 <h4>Desempenho</h4>
