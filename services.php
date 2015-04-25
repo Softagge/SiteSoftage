@@ -60,7 +60,7 @@
         <!-- Container -->
         <div id="container" class="boxed-page">
 
-           <!-- Start Header Section -->
+            <!-- Start Header Section -->
             <?php include 'topo.php'; ?>
             <!-- End Header Section -->
 
@@ -74,7 +74,7 @@
                         </div>
                         <div class="col-md-6">
                             <ul class="breadcrumbs">
-                                <li><a href="#">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li>Serviços</li>
                             </ul>
                         </div>
@@ -112,9 +112,10 @@
 
                             <!-- Start Image Service Box 3 -->
                             <div class="col-md-4 image-service-box">
-                                <img class="img-thumbnail" src="images/service-03.jpg" alt="" />
-                                <h4>High Quality Theme</h4>
-                                <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis quasi architect.</p>
+                                <img class="img-thumbnail" src="images/sistemas_adaptaveis.jpg" alt="" />
+                                <h4>Sistemas Adaptáveis</h4>
+                                <p style="text-align: justify">Trabalhamos com o intuito de propocionarmos aos nossos clientes sistemas responsivos e que são flexíveis a mudanças, podendo assim 
+                                    se adaptar-se as necessidades de um ambiente coorporativo.</p>
                             </div>
                             <!-- End Image Service Box 3 -->
 
@@ -128,7 +129,7 @@
                             <div class="col-md-4">
 
                                 <!-- Classic Heading -->
-                                <h4 class="classic-title"><span>We Aare Awesome</span></h4>
+                                <h4 class="classic-title"><span>A SOFTAGE</span></h4>
 
                                 <!-- Accordion -->
                                 <div class="panel-group" id="accordion">
@@ -139,12 +140,13 @@
                                             <h4 class="panel-title">
                                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse-one">
                                                     <i class="fa fa-angle-up control-icon"></i>
-                                                    <i class="fa fa-desktop"></i> Fully Responsive Theme
+                                                    <i></i> Missão
                                                 </a>
                                             </h4>
                                         </div>
                                         <div id="collapse-one" class="panel-collapse collapse in">
-                                            <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ea commodo consequat. Duis aute irure dolor in reprehe in voluptate velit esse cillum dolore fugiat nulla pariatur.</div>
+                                            <div class="panel-body" style="text-align: justify">Nossa missão não se limita a sermos bons em qualidade, mas sim atingirmos níveis de excelência em qualidade. Para conquistar nossos clientes a longo prazo precisamos buscar continuamente a liderança em qualidade,
+                                                inovação tecnológica, confiabilidade e preços competitivos, bem como assegurar prazo de entrega e assistência técnica.</div>
                                         </div>
                                     </div>
                                     <!-- End Accordion 1 -->
@@ -155,12 +157,12 @@
                                             <h4 class="panel-title">
                                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse-tow" class="collapsed">
                                                     <i class="fa fa-angle-up control-icon"></i>
-                                                    <i class="fa fa-gift"></i> Touchable Slider
+                                                    <i></i> Visão
                                                 </a>
                                             </h4>
                                         </div>
                                         <div id="collapse-tow" class="panel-collapse collapse">
-                                            <div class="panel-body">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. The point of using Lorem Ipsum is that it has a <strong>more-or-less</strong> normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore...</div>
+                                            <div class="panel-body" style="text-align: justify">Nossa visão é ser uma empresa de referência, reconhecida como a melhor opção por clientes, colaboradores, comunidade, fornecedores e investidores, pela qualidade de nossos sistemas, serviços e relacionamento.</div>
                                         </div>
                                     </div>
                                     <!-- End Accordion 2 -->
@@ -171,12 +173,13 @@
                                             <h4 class="panel-title">
                                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse-three" class="collapsed">
                                                     <i class="fa fa-angle-up control-icon"></i>
-                                                    <i class="fa fa-tint"></i> Retina Ready
+                                                    <i></i> Valores
                                                 </a>
                                             </h4>
                                         </div>
                                         <div id="collapse-three" class="panel-collapse collapse">
-                                            <div class="panel-body"><strong>Duis</strong> aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore...</div>
+                                            <div class="panel-body">Nossos valores: <br> Ética Inquestionável <br> Compromisso com o sucesso de nossos clientes <br> Flexibilidade e agilidade com um propósito <br>
+                                                Espírito de equipe <br> Respeito à individualidade e à diversidade <br> Responsabilidade</div>
                                         </div>
                                     </div>
                                     <!-- End Accordion 3 -->
@@ -189,7 +192,7 @@
                             <div class="col-md-8">
 
                                 <!-- Classic Heading -->
-                                <h4 class="classic-title"><span>Our Features</span></h4>
+                                <h4 class="classic-title"><span>Nossos Recursos</span></h4>
 
                                 <div class="row">
 
@@ -199,8 +202,8 @@
                                             <i class="fa fa-magic icon-medium"></i>
                                         </div>
                                         <div class="service-content">
-                                            <h4>Photoshop</h4>
-                                            <p>It is a long <strong class="accent-color">established</strong> fact that a reader will be distracted by the readable content of a page.</p>
+                                            <h4>Padrões de Projeto</h4>
+                                            <p style="text-align: justify">Fazemos o uso de alguns padrões de projeto como, <strong class="accent-color">MVC - Model View  Controller </strong>, que é muito útil para resolver problemas de modelagem de projetos.</p>
                                         </div>
                                     </div>
                                     <!-- End Service Icon 1 -->
@@ -211,8 +214,8 @@
                                             <i class="fa fa-users icon-medium"></i>
                                         </div>
                                         <div class="service-content">
-                                            <h4>Web Marketing</h4>
-                                            <p>It is a long <strong class="accent-color">established</strong> fact that a reader will be distracted by the readable content of a page.</p>
+                                            <h4>Metodologia Ágeis</h4>
+                                            <p style="text-align: justify">Fazemos o uso da metodologia ágil <strong class="accent-color">XP - Extreme Programming</strong>, que facilita o desenvolvimento e utiliza de algumas praticas como "Programação em Par".</p>
                                         </div>
                                     </div>
                                     <!-- End Service Icon 2 -->
@@ -223,8 +226,8 @@
                                             <i class="fa fa-globe icon-medium"></i>
                                         </div>
                                         <div class="service-content">
-                                            <h4>Web Hosting</h4>
-                                            <p>It is a long <strong class="accent-color">established</strong> fact that a reader will be distracted by the readable content of a page.</p>
+                                            <h4>Plataforma Web</h4>
+                                            <p style="text-align: justify">Desenvolvemos sistemas voltados a plataforma <strong class="accent-color">Web </strong> com o objetivo de facilitar o acesso, diminuir os itens de instalação e ter uma maior flexibilidade nas tarefas.</p>
                                         </div>
                                     </div>
                                     <!-- End Service Icon 3 -->
@@ -235,8 +238,8 @@
                                             <i class="fa fa-picture-o icon-medium"></i>
                                         </div>
                                         <div class="service-content">
-                                            <h4>Phtography</h4>
-                                            <p>It is a long <strong class="accent-color">established</strong> fact that a reader will be distracted by the readable content of a page.</p>
+                                            <h4>FrameWorks</h4>
+                                            <p style="text-align: justify">Fazemos o uso de algumas frameworks como<strong class="accent-color"> Java</strong> e <strong class="accent-color"> PHP </strong> que facilita o desenvolvimento e que dita o fluxo de controle da aplicação, chamado de <strong class="accent-color">Inversão de Controle.</strong></p>
                                         </div>
                                     </div>
                                     <!-- End Service Icon 4 -->
@@ -247,23 +250,23 @@
                                             <i class="fa fa-leaf icon-medium"></i>
                                         </div>
                                         <div class="service-content">
-                                            <h4>Product Design</h4>
-                                            <p>It is a long <strong class="accent-color">established</strong> fact that a reader will be distracted by the readable content of a page.</p>
+                                            <h4>Banco de Dados</h4>
+                                            <p style="text-align: justify">Fazemos o uso do <strong class="accent-color">MySQL - Meu Structured Query Language </strong> que é um sistema de gerenciamento de banco de dados(SGBD).</p>
                                         </div>
                                     </div>
                                     <!-- End Service Icon 5 -->
 
-                                    <!-- Start Service Icon 6 -->
+                                    <!-- Start Service Icon 6 
                                     <div class="col-md-6 service-box service-icon-left-more">
                                         <div class="service-icon">
                                             <i class="fa fa-umbrella icon-medium"></i>
                                         </div>
                                         <div class="service-content">
                                             <h4>Supporting</h4>
-                                            <p>It is a long <strong class="accent-color">established</strong> fact that a reader will be distracted by the readable content of a page.</p>
+                                            <p>It is a long <strong class="accent-color">established</strong> a page.</p>
                                         </div>
                                     </div>
-                                    <!-- End Service Icon 6 -->
+                                     End Service Icon 6 -->
 
                                 </div>
                             </div>
