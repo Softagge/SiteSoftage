@@ -1,0 +1,376 @@
+a {
+    color: #484878;
+}
+
+.accent-color {
+	color: #484878;
+}
+
+.accent-color-bg {
+	background-color: #484878;
+}
+
+.top-bar a:hover {
+	color: #484878;
+}
+
+.section-overlay {
+	background-color: #484878;
+}
+
+.top-bar.color-bar {
+	background-color: #484878;
+}
+
+.service-box .read-more {
+	color: #484878;
+}
+
+a.main-button, input[type="submit"] {
+	background-color: #484878;
+}
+
+.navbar-default .navbar-nav > li:hover > a,
+.navbar-default .navbar-nav > li > a.active {
+	color: #484878;
+}
+
+.dropdown > li:hover > a, .sup-dropdown li:hover > a {
+	color: #484878;
+}
+
+.navbar-default .navbar-nav > li > a:after {
+	background-color: #484878;
+}
+
+.navbar-default .navbar-nav > li > a.active, .navbar-default .navbar-nav > li:hover > a {
+	border-color: #484878;
+}
+
+.dropdown  li a.active, .sup-dropdown li a.active {
+	color: #484878;
+}
+
+ul.breadcrumbs li a:hover {
+    color: #484878;
+}
+
+.full-width-recent-projects .portfolio-item:hover .portfolio-thumb .thumb-overlay {
+	background-color: #484878;
+}
+
+.tp-caption.color-bg {
+	background-color: #484878;
+}
+
+.team-member .member-socail a.mail:hover i {
+	background-color: #484878;
+}
+
+.post-share a.mail:hover {
+	background-color: #484878;
+}
+
+.progress .progress-bar.progress-bar-primary {
+	background-color: #484878;
+}
+
+.latest-posts-classic .left-meta-post .post-type i {
+	background-color: #484878;
+}
+
+.latest-posts-classic .post-title a:hover {
+	color: #484878;
+}
+
+.latest-posts-classic .read-more {
+	color: #484878;
+}
+
+.panel-title a {
+	color: #484878;
+}
+
+.panel-title a:hover {
+	color: #484878;
+}
+
+.milestone-block .milestone-icon {
+	background-color: #484878;
+}
+
+.milestone-block .milestone-icon:after {
+	background-color: #484878;
+}
+
+.milestone-block .milestone-number {
+	color: #484878;
+}
+
+.pricing-tables .pricing-table.highlight-plan .plan-name h3 {
+	//color: #484878;
+}
+
+.pricing-tables .pricing-table.highlight-plan .plan-signup {
+    background-color: #484878;
+}
+
+.pricing-tables .pricing-table.highlight-plan .plan-name {
+	background-color: #484878;
+}
+
+.btn-system {
+	background-color: #484878;
+}
+
+.btn-system.border-btn {
+	border-color: #484878;
+	color: #484878;
+}
+
+.btn-system.border-btn:hover {
+	background-color: #484878;
+}
+
+.btn-system.border-btn.btn-wite:hover {
+	color: #484878;
+}
+
+.btn-system.btn-wite{
+	color: #484878;
+}
+
+ul.icons-list li i {
+	color: #484878;
+}
+
+.nav-tabs > li > a:hover, .nav-tabs > li > a:focus {
+	background-color: #484878;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover {
+	color: #484878;
+}
+
+.icon-small {
+	text-shadow: 0 0 0 #484878;
+}
+
+.icon-small:hover, .service-box:hover .icon-small {
+	color: #484878;
+}
+.icon-medium {
+	text-shadow: 0 0 0 #484878;
+}
+
+.icon-medium:hover, .service-box:hover .icon-medium {
+	color: #484878;
+}
+
+.icon-large {
+	text-shadow: 0 0 0 #484878;
+}
+
+.icon-large:hover, .service-box:hover .icon-large {
+	color: #484878;
+}
+
+.icon-effect-1 {
+	box-shadow: 0 0 0 3px #484878;
+	-o-box-shadow: 0 0 0 3px #484878;
+	-moz-box-shadow: 0 0 0 3px #484878;
+  	-webkit-box-shadow: 0 0 0 3px #484878;
+}
+
+.icon-effect-1:after {
+	background-color: #484878;
+}
+
+.icon-effect-1:hover, .service-box:hover .icon-effect-1 {
+	color: #484878;
+}
+
+.icon-effect-2 {
+	color: #484878;
+	box-shadow: 0 0 0 3px #484878;
+	-o-box-shadow: 0 0 0 3px #484878;
+	-moz-box-shadow: 0 0 0 3px #484878;
+  	-webkit-box-shadow: 0 0 0 3px #484878;
+}
+
+.icon-effect-2:after {
+	background-color: #484878;
+}
+
+.icon-effect-3 {
+	color: #484878;
+	box-shadow: 0 0 0 3px #484878;
+	-o-box-shadow: 0 0 0 3px #484878;
+	-moz-box-shadow: 0 0 0 3px #484878;
+  	-webkit-box-shadow: 0 0 0 3px #484878;
+}
+
+.icon-effect-4 {
+	color: #484878;
+	box-shadow: 0 0 0 3px #484878;
+	-o-box-shadow: 0 0 0 3px #484878;
+	-moz-box-shadow: 0 0 0 3px #484878;
+  	-webkit-box-shadow: 0 0 0 3px #484878;
+}
+
+.icon-effect-5 {
+	color: #484878;
+	box-shadow: 0 0 0 3px #484878;
+	-o-box-shadow: 0 0 0 3px #484878;
+	-moz-box-shadow: 0 0 0 3px #484878;
+  	-webkit-box-shadow: 0 0 0 3px #484878;
+}
+
+.icon-effect-6 {
+	color: #484878;
+	box-shadow: 0 0 0 3px #484878;
+	-o-box-shadow: 0 0 0 3px #484878;
+	-moz-box-shadow: 0 0 0 3px #484878;
+  	-webkit-box-shadow: 0 0 0 3px #484878;
+}
+
+.team-member .member-photo .member-name span {
+	background-color: #484878;
+}
+
+.classic-title span {
+	border-bottom-color: #484878;
+}
+
+.portfolio-filter li a:hover {
+	color: #484878;
+}
+
+.portfolio-filter li a.selected {
+	border-color: #484878;
+	background-color: #484878;
+}
+
+.portfolio-item:hover .portfolio-details h4 {
+	color: #484878;
+}
+
+.project-content h4 span {
+	border-bottom-color: #484878;
+}
+
+.recent-projects h4.title span {
+	border-bottom-color: #484878;
+}
+
+ul.post-meta li a:hover {
+	color: #484878;
+}
+
+#pagination span.current {
+	border-color: #484878;
+	background-color: #484878;
+}
+
+#pagination a:hover {
+	color: #484878;
+}
+
+.post-tags-list a:hover {
+	background-color: #484878;
+}
+
+.post-share a.mail {
+	background-color: #484878;
+}
+
+.sidebar a:hover {
+	color: #484878;
+}
+
+.widget-search .search-btn {
+	background-color: #484878;
+}
+
+.sidebar .tagcloud a:hover {
+    background-color: #484878;
+}
+
+.back-to-top:hover i {
+    background-color: #484878;
+}
+
+.touch-slider .owl-controls.clickable .owl-buttons div:hover {
+	background-color: #484878;
+}
+
+.touch-carousel .owl-controls.clickable .owl-buttons div:hover {
+	background-color: #484878;
+}
+
+.testimonials-carousel .owl-controls.clickable .owl-buttons div {
+	background-color: #484878;
+}
+
+.testimonials-carousel .owl-controls.clickable .owl-buttons div:hover i {
+	color: #484878;
+}
+
+#portfolio-list li .portfolio-item-content {
+    background: rgba(106, 61, 163, 0.9);
+}
+
+.services-3-icon i {
+    background-color: #484878;
+}
+
+.services-2-icon i {
+    background-color: #484878;
+}
+
+#main-slide .animated2 strong {
+    color: #484878;
+}
+#main-slide .animated4 strong {
+    color: #484878;
+}
+#main-slide .animated7 strong {
+    color: #484878;
+}
+
+#main-slide .carousel-control i:hover{
+	background-color: #484878;
+}
+.slider.btn {
+    background-color: #484878;
+}
+
+#main-slide .carousel-indicators .active {
+    background-color: #484878;
+}
+
+
+.counter-item i {
+    color: #484878;
+}
+
+.timer {
+    color: #484878;
+}
+
+.progress-bar {
+    background-color: #484878;
+}
+
+.team-member.modern .member-photo:after {
+    background-color: #484878;
+}
+
+
+.twitter-widget a {
+	color: #484878;
+}
+
+.dot1, .dot2 {
+    background-color: #484878;
+}

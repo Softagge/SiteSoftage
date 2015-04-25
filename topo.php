@@ -11,7 +11,7 @@
                         </li>
                         <li><a href="#"><i class="fa fa-envelope-o"></i> softage@softage.com</a>
                         </li>
-                        <li><a href="#"><i class="fa fa-phone"></i> +12 345 678 000</a>
+                        <li><a href="#"><i class="fa fa-phone"></i> +55 81 8673-3592</a>
                         </li>
                     </ul>
                     <!-- End Contact Info -->
@@ -55,8 +55,8 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <!-- End Toggle Nav Link For Mobiles -->
-                <a class="navbar-brand" href="index_old.html">
-                    <img alt="" src="images/softage/logo/logo softage.png" width="114" height="23">
+                <a class="navbar-brand" href="index.php">
+                    <img alt="" src="images/softage/logo/logo_softage.png" width="114" height="23">
                 </a>
             </div>
             <div class="navbar-collapse collapse">
@@ -73,16 +73,16 @@
                 <!-- Start Navigation List -->
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a class="active" href="index_old.html">Home</a>
+                        <a class="active" href="index.php">Home</a>
                     </li>                               
                     <li>
-                        <a href="services.html">Serviços</a>
+                        <a href="services.php">Serviços</a>
                     </li>
                     <li>
-                        <a href="portfolio-2.html">Portfólio</a>
+                        <a href="portfolio.php">Portfólio</a>
                     </li>
                     <li>
-                        <a href="about.html">Sobre</a>
+                        <a href="about.php">Sobre nós</a>
                     </li>
                     <!--                                <li>
                                                         <a href="about.html">Pages</a>
@@ -135,7 +135,7 @@
                                                             </li>
                                                         </ul>
                                                     </li>-->
-                    <li><a href="contact.html">Contato</a>
+                    <li><a href="contact.php">Contato</a>
                     </li>
                 </ul>
                 <!-- End Navigation List -->
