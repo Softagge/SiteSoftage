@@ -121,7 +121,7 @@
 
                         <div class="row">
 
-                            <div class="col-md-6">
+                            <div class="col-md-12">
 
                                 <!-- Classic Heading -->
                                 <h4 class="classic-title"><span>Nossas Habilides</span></h4>
@@ -185,17 +185,17 @@
 
                             </div>
 
-                            <div class="col-md-6">
+<!--                            <div class="col-md-6">
 
-                                <!-- Classic Heading -->
+                                 Classic Heading 
                                 <h4 class="classic-title"><span>Como oferecemos Soluções para seus Problemas.</span></h4>
 
-                                <!-- Accordion -->
+                                 Accordion 
                                 <div class="panel-group" id="accordion">
 
-                                    <!-- Start Accordion 1 -->
+                                     Start Accordion 1 
                                     <div class="panel panel-default">
-                                        <!-- Toggle Heading -->
+                                         Toggle Heading 
                                         <div class="panel-heading">
                                             <h4 class="panel-title">
                                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1">
@@ -204,16 +204,16 @@
                                                 </a>
                                             </h4>
                                         </div>
-                                        <!-- Toggle Content -->
+                                         Toggle Content 
                                         <div id="collapse-1" class="panel-collapse collapse in">
                                             <div class="panel-body"><img class="img-thumbnail image-text" style="float:left; width:150px;" alt="" src="images/bussniss-pic.jpg" /> <strong class="accent-color">Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown <strong>printer</strong> took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</div>
                                         </div>
                                     </div>
-                                    <!-- End Accordion 1 -->
+                                     End Accordion 1 
 
-                                    <!-- Start Accordion 2 -->
+                                     Start Accordion 2 
                                     <div class="panel panel-default">
-                                        <!-- Toggle Heading -->
+                                         Toggle Heading 
                                         <div class="panel-heading">
                                             <h4 class="panel-title">
                                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse-2" class="collapsed">
@@ -222,15 +222,15 @@
                                                 </a>
                                             </h4>
                                         </div>
-                                        <!-- Toggle Content -->
+                                         Toggle Content 
                                         <div id="collapse-2" class="panel-collapse collapse">
                                             <div class="panel-body">Oferecemos servirços para pessoas que desejam investir em suas empresas oferecendo o desenvolvimento e suporte em softwares empresarias com baixo investimento , comparado a outras empresas já consagradas,software de qualidade,uma atenção e tempo maior para os clientes e suporte.<strong>more-or-less</strong> Na softage o cliente possui maior liberdade de comunicação com a nossa equipe, sem coplicação, sem impedimentos. O feedback do cliente é uma das nossas maiores preocupações. Empresas que precisam de softwares empresarais, não importando o rammo do negócio, presisam da softage.</div>
                                         </div>
                                     </div>
-                                    <!-- End Accordion 2 -->
+                                     End Accordion 2 
 
                                 </div>
-                            </div>
+                            </div>-->
 
                         </div>
 
@@ -363,8 +363,7 @@
                                 </div>
                             </div>
                             <!-- End Memebr 5 -->
-
-
+                            
                             <!-- Start Memebr 6 -->
                             <div class="col-md-3 col-sm-6 col-xs-12">
                                 <div class="team-member">
@@ -400,7 +399,7 @@
                             <h1>Nossos <strong>Clientes</strong></h1>
                         </div>
                         <!-- End Big Heading -->
-
+                        <div class="row">
                         <!--Start Clients Carousel-->
                         <div class="our-clients" style="margin-top: -35px;">
                             <div class="clients-carousel custom-carousel touch-carousel navigation-3" data-appeared-items="5" data-navigation="true">
@@ -435,10 +434,8 @@
                     </div>
                 </div><!-- .container -->
 
-
             </div>
         </div>
-    </div>
     <!-- End content -->
 
     <!-- Start Footer -->

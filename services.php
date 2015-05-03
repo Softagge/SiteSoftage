@@ -83,15 +83,10 @@
             </div>
             <!-- End Page Banner -->
 
-
-
-
             <!-- Start Content -->
             <div id="content">
                 <div class="container">
                     <div class="page-content">
-
-
                         <div class="row">
 
                             <!-- Start Image Service Box 1 -->
@@ -118,11 +113,11 @@
                                     adaptar-se as necessidades de um ambiente coorporativo.</p>
                             </div>
                             <!-- End Image Service Box 3 -->
-
+                            
                         </div>
-
-                        <div class="col-md-12">
-
+                        <br />
+                        <div class="row">
+                            <div class="col-md-12">
                                 <!-- Classic Heading -->
                                 <h4 class="classic-title"><span>Nossos Recursos</span></h4>
 
@@ -196,16 +191,16 @@
                                         <div class="service-content">
                                             <h4>IDE - (Integrated Development Environment)</h4>
                                             <p style="text-align: justify">Usamos de algumas Ide's para o desenvolvimento de nossos sistemas como, <strong class="accent-color">NetBeans, </strong><strong class="accent-color">Eclipse, </strong>  
-                                               <strong class="accent-color">Dreamweaver, </strong>que são utilizadas para a implementação dos códigos fontes correspondentes ao sistema.</p>
+                                                <strong class="accent-color">Dreamweaver, </strong>que são utilizadas para a implementação dos códigos fontes correspondentes ao sistema.</p>
                                         </div>
                                     </div>
-                                     <!--End Service Icon 6 -->
+                                    <!--End Service Icon 6 -->
 
                                 </div>
                             </div>
 
                         </div>
-
+                        <!-- End row -->
                     </div>
                 </div>
             </div>

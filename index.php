@@ -92,7 +92,7 @@
                                     <h3 class="animated3" style="margin-left: 210px;">
                                         <span>A tecnologia ao seu alcance</span>
                                     </h3>
-                                    <p class="animated2" style="margin-left: 210px;"><a href="#" class="slider btn btn-system btn-large">Conheça-nos agora</a>
+                                    <p class="animated2" style="margin-left: 210px;"><a href="about.php" class="slider btn btn-system btn-large">Conheça-nos agora</a>
                                     </p>
                                 </div>
                             </div>
@@ -119,7 +119,7 @@
                                         <span><strong>Softage</strong><span style="color: #fff"> a melhor escolha</span></span>
                                     </h2>
                                     <h3 class="animated5">
-                                        <span style="color: #fff; text-shadow: #000 -1px 1px">Seja nosso cliente você também</span>
+                                        <span style="color: #fff; text-shadow: #000 -1px 1px; background-color: #00afd1">Seja nosso cliente você também</span>
                                     </h3>	
                                 </div>
                             </div>
